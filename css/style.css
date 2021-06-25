@@ -11,11 +11,11 @@
   --fses: 16px; /* Links List */
 
   /* Light theme  */
-  --accent: #d65d0e; /* Hover color */
-  --bg: #fbf1c7; /* Background color */
-  --sbg: #ebdbb2; /* Cards color */
-  --fg: #3c3836; /* Foreground color */
-  --sfg: #f9f5d7; /* Secondary Foreground color */
+  --accent: #90caf9; /* Hover color */
+  --bg: #ffffff; /* Background color */
+  --sbg: #fafafa; /* Cards color */
+  --fg: #000000; /* Foreground color */
+  --sfg: #ffffff; /* Secondary Foreground color */
 
   /* Image background  */
 
@@ -32,11 +32,11 @@
 
 /* Dark theme  */
 .darktheme {
-  --accent: #fe8019; /* Hover color */
-  --bg: #282828; /* Background color */
-  --sbg: #3c3836; /* Cards color */
-  --fg: #ebdbb2; /* Foreground color */
-  --sfg: #1d2021; /* Secondary Foreground color */
+  --accent: #648dae; /* Hover color */
+  --bg: #303030; /* Background color */
+  --sbg: #424242; /* Cards color */
+  --fg: #ffffff; /* Foreground color */
+  --sfg: #000000; /* Secondary Foreground color */
   --imgcol: linear-gradient(
     rgba(0, 0, 0, 0.7),
     rgba(0, 0, 0, 0.7)
