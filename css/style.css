@@ -12,10 +12,10 @@
 
   /* Light theme  */
   --accent: #90caf9; /* Hover color */
-  --bg: #ffffff; /* Background color */
-  --sbg: #fafafa; /* Cards color */
-  --fg: #000000; /* Foreground color */
-  --sfg: #ffffff; /* Secondary Foreground color */
+  --bg: #eaeaea; /* Background color */
+  --sbg: #eaeaea; /* Cards color */
+  --fg: #3b3b3b; /* Foreground color */
+  --sfg: #3b3b3b; /* Secondary Foreground color */
 
   /* Image background  */
 
